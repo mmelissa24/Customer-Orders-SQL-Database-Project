@@ -54,14 +54,14 @@ customer-orders-sql-project/
 
 This project uses SQL queries to answer questions like: 
 
-What is the total revenue?
-Which payment method generated the most revenue?
-Which customers spent the most?
-Which producst sold the most?
-Which products generated the most revenue?
-Which orders were over $50?
-What was the monthly revenue?
-Which products have low stock?
+- What is the total revenue?
+- Which payment method generated the most revenue?
+- Which customers spent the most?
+- Which producst sold the most?
+- Which products generated the most revenue?
+- Which orders were over $50?
+- What was the monthly revenue?
+- Which products have low stock?
 
 ## Project Summary
 
