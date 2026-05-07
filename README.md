@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a simple beginner-level SQL database project that models a small customer order system. The database includes customers, products, orders, order items, and payments.
+This project is a simple SQL database project that models a small customer order system. The database includes customers, products, orders, order items, and payments.
 
 The goal of this project is to practice relational database design and write SQL queries that answer buisness-style questions, such as total revenue, top-selling products, customer spending, and monthly sales.
 
