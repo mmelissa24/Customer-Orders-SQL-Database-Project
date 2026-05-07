@@ -40,7 +40,8 @@ customer-orders-sql-project/
 
 
 ## HOW TO RUN THE PROJECT:
-1) open project in a new terminal 
+1) Clone or Download the repository(click green "Code" button to download)
+1) Open project in a new terminal or Codespace(if using Git)
 2) start SQL  ---> sqlite3 customer_orders.db
 3) run the table creation file --> .read sql/create_tables.sql
 4) run the sample data file --> .read sql/insert_data.sql
